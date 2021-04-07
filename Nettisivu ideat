@@ -1,0 +1,11 @@
+#pohja koodi
+<!DOCTYPE html>
+<html lang="fi">
+<head>	
+   <meta charset="utf-8"/>
+   <title> Välilehden otsikko - muuta!</title>
+</head> 
+<body>
+    Kirjoita sivun koodi tänne BODY-osaan!
+</body>
+</html>
