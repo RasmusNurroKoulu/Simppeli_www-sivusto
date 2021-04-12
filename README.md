@@ -1,2 +1,2 @@
-# Simppeli_www-sivusto
-Simppeli www-sivusto versionhallinnan kanssa
+# Tekijät:
+Rasmus Nurro ja Matias Nissilä
